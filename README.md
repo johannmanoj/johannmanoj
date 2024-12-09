@@ -1,4 +1,4 @@
-## Hello👋, I'm Johann!
+## Hello there👋, I'm Johann!
 
 <!--
 **johannmanoj/johannmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
