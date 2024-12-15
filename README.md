@@ -1,6 +1,7 @@
 ## Hello there👋, I'm Johann!
 
 - 🔭 I’m currently working as Backend Developer
+- Knowledge in NodeJS, Python, ReactJS, HTML, CSS, MySQL
 
 <!--
 **johannmanoj/johannmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
