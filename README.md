@@ -1,4 +1,4 @@
-## Hello there👋, I'm Johann!
+<h1 align="center">Hi 👋, I'm Johann</h1>
 
 - 🔭 I’m currently working as Backend Developer
 - Knowledge in NodeJS, Python, ReactJS, HTML, CSS, MySQL
