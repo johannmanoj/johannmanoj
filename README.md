@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
 
 - 🔭 I’m currently working as Backend Developer
-- Knowledge in NodeJS, ExpressJS, ReactJS Python, HTML, CSS, MySQL
+- Knowledge in NodeJS, ExpressJS Python, HTML, CSS, MySQL
 
 <!--
 **johannmanoj/johannmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
