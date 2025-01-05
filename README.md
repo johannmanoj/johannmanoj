@@ -3,6 +3,7 @@
 - I’m currently working as Backend Developer.
 - Knowledge in NodeJS, ExpressJS Python, HTML, CSS.
 - Database: MySQL
+- Version Control: Gitlab, Github
 
 <!--
 **johannmanoj/johannmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
