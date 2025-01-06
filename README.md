@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
 
 - I’m currently working as Backend Developer.
-- Knowledge in NodeJS, ExpressJS Python, HTML, CSS.
+- Knowledge in NodeJS, ExpressJS, Python, HTML, CSS, ReactJS.
 - Database: MySQL
 - Version Control: Gitlab
 
