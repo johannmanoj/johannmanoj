@@ -4,7 +4,6 @@
 - Knowledge in NodeJS, ExpressJS, Python, HTML, CSS, ReactJS.
 - Database: MySQL
 - Version Control: Gitlab
-- Cloud platform: AWS
 
 <!--
 **johannmanoj/johannmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
