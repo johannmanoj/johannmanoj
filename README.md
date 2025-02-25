@@ -3,7 +3,7 @@
 - I’m currently working as software Developer.
 - Knowledge in NodeJS, ExpressJS, Python, HTML, CSS, ReactJS.
 - Database: MySQL
-- Version Control: Gitlab
+- Version Control: Gitlab, Github
 - Cloud: AWS
 
 <!--
