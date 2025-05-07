@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johann</h1>
+<h1>Hi 👋, I'm Johann</h1>
 
 - I’m currently working as software Developer.
 - Knowledge in NodeJS, ExpressJS, Python, HTML, CSS, ReactJS.
