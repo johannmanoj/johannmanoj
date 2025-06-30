@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Johann</h1>
 <!-- <a href='www.linkedin.com/in/johann-manoj-175b5219a/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <br> -->
 
-- I’m currently working as software Developer.
+- I’m a software Developer.
 - Knowledge in NodeJS, ExpressJS, Python, HTML, CSS, ReactJS.
 - Database: MySQL
 - Version Control: Gitlab, Github
