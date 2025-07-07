@@ -28,7 +28,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johannmanoj&show_icons=true&theme=tokyonight" alt="johannmanoj" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=johannmanoj&show_icons=true&theme=tokyonight" alt="johannmanoj" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johannmanoj&theme=tokyonight" alt="streak" />
 </p>
 
