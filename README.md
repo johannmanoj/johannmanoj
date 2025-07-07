@@ -9,7 +9,7 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on: **React Dashboards, REST APIs & Faceless YouTube Automation**
+- 🔭 I’m currently working on: **React Dashboards, REST APIs**
 - 🌱 I’m currently learning: **Next.js, Tailwind, and TypeScript**
 - 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace with your site if available -->
 - 💬 Ask me about: **React, Node.js, MySQL, Git**
