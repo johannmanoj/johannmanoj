@@ -1,22 +1,39 @@
-<h1>Hi 👋, I'm Johann</h1>
-<!-- <a href='www.linkedin.com/in/johann-manoj-175b5219a/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <br> -->
+<h1 align="center">Hi 👋, I'm Johann Manoj</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- I’m a software Developer.
-- Knowledge in NodeJS, ExpressJS, ReactJS. Python, HTML, CSS, Postman.
-- Database: MySQL
-- Version Control: Gitlab, Github
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=johannmanoj&label=Profile%20views&color=0e75b6&style=flat" alt="johannmanoj" />
+</p>
 
-<!--
-**johannmanoj/johannmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **React Dashboards, REST APIs & Faceless YouTube Automation**
+- 🌱 I’m currently learning: **Next.js, Tailwind, and TypeScript**
+- 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace with your site if available -->
+- 💬 Ask me about: **React, Node.js, MySQL, Git**
+- ⚡ Fun fact: *I started as a mechanical engineer, now I build digital products.*
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,tailwind,html,css,mysql,git,figma" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johannmanoj&show_icons=true&theme=tokyonight" alt="johannmanoj" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johannmanoj&theme=tokyonight" alt="streak" />
+</p>
+
+
+
+<!-- Optional: Latest Projects or YouTube Embed Section -->
+<!-- You can embed latest repo or GitHub activity using GitHub Readme Widgets -->
+
