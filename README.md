@@ -10,8 +10,7 @@
 ### 💻 About Me
 
 - 🔭 I’m currently working on: **React project, REST APIs**
-- 🌱 I’m currently learning: **Next.js, Tailwind, and TypeScript**
-- 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace with your site if available -->
+- 🌱 I’m currently learning: **React.js, AWS**
 - 💬 Ask me about: **React, Node.js, MySQL, Git**
 - ⚡ Fun fact: *I started as a mechanical engineer, now I build digital products.*
 
