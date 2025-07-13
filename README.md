@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: **React project, REST APIs**
 - 🌱 I’m currently learning: **React.js**
-- 💬 Ask me about: **React, Node.js, MySQL, Git**
+- 💬 Ask me about: **React, Node.js, ExpressJS, MySQL, Git**
 - ⚡ Fun fact: *I started as a mechanical engineer, now I build digital products.*
 
 ---
